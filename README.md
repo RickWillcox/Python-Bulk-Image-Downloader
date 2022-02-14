@@ -18,3 +18,8 @@
 2. Make sure that txt file is in the same folder as download_images.py
 3. In download_images.py change the `image_links` variable to the name of your image links txt file eg `images.txt`
 4. Run the script, using Python 3 `python3 download_images.py`
+
+Here it is in action:
+
+https://user-images.githubusercontent.com/53924507/153854425-15da6c18-2170-4b43-bf0e-deeb2a03dd26.mp4
+
