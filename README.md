@@ -1,8 +1,9 @@
 # Bulk image downloader
 
 ### Requirements
-1. `pip install requests`
-2. `pip install shutil`
+1. Python3
+2. `pip install requests`
+3. `pip install shutil`
 
 ### Usage
 
